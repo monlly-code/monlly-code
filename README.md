@@ -33,7 +33,6 @@ Focusing on lighting, mood, and performance.
     </td>
     <td>
       ![Gifnagit3](https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf)
->
     </td>
   </tr>
 </table>
