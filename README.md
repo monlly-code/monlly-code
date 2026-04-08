@@ -36,8 +36,7 @@ I enjoy solving problems, fixing and improving existing systems to make them mor
 </table>
 
 * I'm also constantly learning programming and other IT-related things like:
-- Arduino, ESP etc.
-- Making side projects like smart homes, automated machines
+- Making side projects combining hardware and code. Built using Arduino and ESP. Example below:
 https://github.com/monlly-code/Smart-Blinds-for-Smart-Home-/tree/main
 * I'm learning 3D modeling tools (blender) too
 ---
