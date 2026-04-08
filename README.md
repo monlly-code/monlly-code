@@ -1,4 +1,4 @@
-![Gifnagit3](https://github.com/user-attachments/assets/c92cc029-695d-4e92-9bcb-4d87c3f84c6a)# 👋 Hi, I'm Monlly
+# 👋 Hi, I'm Monlly
 
 🎮 **Unreal Engine 5 Developer** focused on building and improving gameplay systems
 💻 Working mainly with **Blueprints, performance, and debugging**
