@@ -26,13 +26,14 @@ I enjoy solving problems, fixing and improving existing systems to make them mor
 https://monlly.itch.io/sinister-trials
 #### 🎨 UE Environments
 Focusing on lighting, mood, and performance.
-- <table border="0">
+
+<table border="0">
   <tr>
-    <td>
+    <td width="50%">
       <img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%" alt="image1">
     </td>
-    <td>
-      ![Gifnagit3](https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf)
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf" width="100%" alt="image2">
     </td>
   </tr>
 </table>
