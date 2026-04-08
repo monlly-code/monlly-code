@@ -28,7 +28,7 @@ https://monlly.itch.io/sinister-trials
 Focusing on lighting, mood, and performance.
 
 <table border="0">
-  <tr valign="top">
+  <tr valign="middle">
     <td>
       <img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%" />
     </td>
