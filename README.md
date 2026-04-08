@@ -24,7 +24,7 @@ I enjoy solving problems, fixing and improving existing systems to make them mor
 
 * I'm **creator of game**: https://monlly.itch.io/sinister-trials
 - I love making UE enviroments:
-<img width="556" height="556" alt="image" src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" style="margin-right: 5%;"/>
+<img width="556" height="556" alt="image" src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" style="margin-right: 5%;"/> &lt;img&gt;
 <img width="556" height="556" alt="image" src="https://github.com/user-attachments/assets/7ade9456-1b71-46cb-a516-48388276afdd" />
 
 * I'm also constantly learning programming and other IT-related things like:
