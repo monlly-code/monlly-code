@@ -27,16 +27,10 @@ https://monlly.itch.io/sinister-trials
 #### 🎨 UE Environments
 Focusing on lighting, mood, and performance.
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%" alt="image1">
-    </td>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf" width="100%" alt="image2">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="49%" />
+  <img src="https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf" width="49%" />
+</p>
 
 #### I'm also constantly learning programming and other IT-related things like:
 - Making side projects combining hardware and code. Built using Arduino and ESP. Example below:
