@@ -32,7 +32,7 @@ Focusing on lighting, mood, and performance.
       <img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%" alt="image1">
     </td>
     <td>
-      <![Gifnagit3](https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf)>
+      ![Gifnagit3](https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf)
 >
     </td>
   </tr>
