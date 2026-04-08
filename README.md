@@ -2,7 +2,7 @@
 
 🎮 **Unreal Engine 5 Developer** focused on building and improving gameplay systems
 💻 Working mainly with **Blueprints, performance, and debugging**
-I enjoy solving problems, improving existing systems, and making projects run smoother and more efficiently.
+I enjoy solving problems, fixing and improving existing systems to make them more stable and efficient, and making projects run smoother and more efficiently.
 ---
 ## 🧠 What I work with
 
@@ -23,6 +23,9 @@ I enjoy solving problems, improving existing systems, and making projects run sm
 ## 📂 Projects
 
 I'm **creator of game**: https://monlly.itch.io/sinister-trials
+I'm also constantly learning programming and other IT-related things like:
+- Arduino, ESP etc.
+- Making side projects like smart homes, automated machines
 
 ---
 
