@@ -37,6 +37,7 @@ Focusing on lighting, mood, and performance.
     </td>
   </tr>
 </table>
+
 #### I'm also constantly learning programming and other IT-related things like:
 - Making side projects combining hardware and code. Built using Arduino and ESP. Example below:
 - https://github.com/monlly-code/Smart-Blinds-for-Smart-Home-/tree/main
