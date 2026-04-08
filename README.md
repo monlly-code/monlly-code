@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Monlly
 
-<!--
-**monlly-code/monlly-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Unreal Engine 5 Developer** focused on building and improving gameplay systems
+💻 Working mainly with **Blueprints, performance, and debugging**
+I enjoy solving problems, improving existing systems, and making projects run smoother and more efficiently.
+---
+## 🧠 What I work with
 
-Here are some ideas to get you started:
+* **Blueprints (UE5)**
+  Creating and fixing systems, improving logic, and keeping things clean and organized
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Performance & Optimization**
+  Identifying FPS drops and inefficient logic, then improving performance where possible
+
+* **Gameplay Systems**
+  Working on simple systems like interactions, basic AI, and core mechanics
+
+* **Debugging**
+  Finding issues in projects and working towards practical solutions
+
+---
+
+## 📂 Projects
+
+I'm **creator of game**: https://monlly.itch.io/sinister-trials
+
+---
+
+## 🚀 Approach
+
+* I focus on **learning by doing real projects**
+* I prefer **fixing and improving systems** over just adding new features
+* I care about **clean structure and performance**, even in smaller systems
+* I’m constantly improving and expanding my skills
+
+---
+
+## 🤝 Collaboration
+
+I’m currently looking for projects where I can:
+* gain real experience
+* contribute to existing work
+* help fix and improve systems
+
+---
+
+## 📬 Contact
+
+* Discord: *monlly.*
+
+---
+
+💡 *I may not know everything yet, but I know how to figure things out.*
