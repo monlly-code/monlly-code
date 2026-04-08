@@ -33,7 +33,7 @@ Focusing on lighting, mood, and performance.
       <img src="https://github.com/user-attachments/assets/c693e1a5-9e61-44e8-83b1-052d119cfdce" width="100%" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/03f55aee-0539-40a0-8e19-99c367fb200e" width="100%" />
+      <img src="https://github.com/user-attachments/assets/a6acf9d5-479a-451c-be34-807d7507cfbf" width="100%" />
     </td>
   </tr>
 </table>
